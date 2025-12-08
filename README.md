@@ -13,4 +13,3 @@ It allows users to:
 - OOP Concepts  
 - ArrayList  
 
-## 📁 Project Structure
